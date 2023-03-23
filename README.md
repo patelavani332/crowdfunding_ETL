@@ -93,6 +93,9 @@ From the ERD a table schema for each CSV file is created.
 
 ![ERD - crowdfunding](https://user-images.githubusercontent.com/120197958/227365779-5d29a0f5-f2c6-4fb6-be52-1b9b52db81a4.png)
 
+## Extraxct, Transform, Load using sqlalchemy
+
+![sql](https://user-images.githubusercontent.com/120197958/227386106-9dd37c8f-923b-42c3-89f5-1395bba3d35b.png)
 
 
 
